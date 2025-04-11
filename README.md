@@ -1,4 +1,5 @@
-# Music-genre-
+# Music-genre-Classification
+
 The music genre classification project demonstrated the power of feature engineering and preprocessing for audio-based classification tasks.
 
 By cleaning the dataset, scaling numerical features, and visualizing patterns, a solid foundation was set for genre prediction.
